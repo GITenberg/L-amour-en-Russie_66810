@@ -1,0 +1,29 @@
+_repo: L-amour-en-Russie_66810
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anet, Claude
+    alias: Schopfer, Jean
+    birthdate: 1868
+    deathdate: 1931
+    gutenberg_agent_id: '8829'
+    url: http://www.gutenberg.org/2009/agents/8829
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Claude_Anet
+    - https://en.wikipedia.org/wiki/Jean_Schopfer
+description: ''
+gutenberg_issued: '2021-11-24'
+identifiers:
+  gutenberg: '66810'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, French'
+- !lcsh 'French fiction -- 20th century'
+- GITenberg
+tableOfContents: Nadia -- Vera Alexandrovna -- Sonia Grigorievna.
+title: L'amour en Russie
+url: http://www.gutenberg.org/ebooks/66810
