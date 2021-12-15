@@ -1,5 +1,8 @@
 _repo: L-amour-en-Russie_66810
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66810-h/images/cover.jpg
 creator:
   author:
     agent_name: Anet, Claude
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Claude_Anet
     - https://en.wikipedia.org/wiki/Jean_Schopfer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66810#L-amour-en-Russie
 gutenberg_issued: '2021-11-24'
 identifiers:
   gutenberg: '66810'
